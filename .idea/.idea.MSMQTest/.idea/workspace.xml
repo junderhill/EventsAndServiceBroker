@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b29d5d55-9e2b-4315-b97f-9e1f4b0c267a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSMQTest/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <marker date="1506357573563" expanded="true" signature="6:123" ph="..." />
+                <marker date="1506357573563" expanded="true" signature="143:1014" ph="{...}" />
+                <marker date="1506357573563" expanded="true" signature="172:1012" ph="{...}" />
+                <marker date="1506357573563" expanded="true" signature="226:644" ph="{...}" />
+                <marker date="1506357573563" expanded="true" signature="319:632" ph="{...}" />
+                <marker date="1506357573563" expanded="true" signature="377:576" ph="{...}" />
+                <marker date="1506357573563" expanded="true" signature="697:940" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSMQTest/TestService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="42" column="62" lean-forward="false" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+              <folding>
+                <marker date="1506354045877" expanded="false" signature="6:121" ph="..." />
+                <marker date="1506354045877" expanded="true" signature="144:3210" ph="{...}" />
+                <marker date="1506354045877" expanded="true" signature="176:3207" ph="{...}" />
+                <marker date="1506354045877" expanded="true" signature="288:603" ph="{...}" />
+                <marker date="1506354045877" expanded="true" signature="631:762" ph="{...}" />
+                <marker date="1506354045877" expanded="true" signature="865:1916" ph="{...}" />
+                <marker date="1506354045877" expanded="true" signature="2222:3201" ph="{...}" />
+                <marker date="1506354045877" expanded="true" signature="2393:3191" ph="{...}" />
+                <marker date="1506354045877" expanded="true" signature="2494:3177" ph="{...}" />
+                <marker date="1506354045877" expanded="true" signature="2640:3159" ph="{...}" />
+                <marker date="1506354045877" expanded="true" signature="2896:3137" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryEventLoopJob.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSMQTest/QueryEventLoopJob.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <marker date="1506344702411" expanded="false" signature="6:28" ph="..." />
+                <marker date="1506344702411" expanded="true" signature="51:281" ph="{...}" />
+                <marker date="1506344702411" expanded="true" signature="97:278" ph="{...}" />
+                <marker date="1506344702411" expanded="true" signature="161:272" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatePrimeHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSMQTest/CalculatePrimeHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding>
+                <marker date="1506357659746" expanded="true" signature="36:1155" ph="{...}" />
+                <marker date="1506357659746" expanded="true" signature="123:1152" ph="{...}" />
+                <marker date="1506357659746" expanded="true" signature="189:231" ph="{...}" />
+                <marker date="1506357659746" expanded="true" signature="259:482" ph="{...}" />
+                <marker date="1506357659746" expanded="true" signature="529:1145" ph="{...}" />
+                <marker date="1506357659746" expanded="true" signature="619:1107" ph="{...}" />
+                <marker date="1506357659746" expanded="true" signature="758:971" ph="{...}" />
+                <marker date="1506357659746" expanded="true" signature="813:926" ph="{...}" />
+                <marker date="1506357659746" expanded="true" signature="1003:1070" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SlowCalculateBigPrimeEvent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSMQTest/SlowCalculateBigPrimeEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+              <folding>
+                <marker date="1506354532306" expanded="true" signature="19:93" ph="{...}" />
+                <marker date="1506354532306" expanded="true" signature="76:90" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMessageEvent.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MSMQTest/TestMessageEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1506354479483" expanded="true" signature="19:255" ph="{...}" />
+                <marker date="1506354479483" expanded="true" signature="69:252" ph="{...}" />
+                <marker date="1506354479483" expanded="true" signature="175:240" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScheduledJob.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSMQTest/ScheduledJob.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <marker date="1506344802148" expanded="false" signature="6:40" ph="..." />
+                <marker date="1506344802148" expanded="true" signature="63:342" ph="{...}" />
+                <marker date="1506344802148" expanded="true" signature="103:339" ph="{...}" />
+                <marker date="1506344802148" expanded="true" signature="167:333" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventLoop.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSMQTest/EventLoop.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+              <folding>
+                <marker date="1506357659702" expanded="true" signature="6:146" ph="..." />
+                <marker date="1506357659702" expanded="true" signature="169:1945" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="199:1942" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="434:672" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="462:661" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="518:610" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="709:837" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="925:1018" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="1049:1125" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="1155:1803" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="1196:1792" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="1286:1649" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="1536:1630" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="1672:1777" ph="{...}" />
+                <marker date="1506357659702" expanded="true" signature="1859:1935" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MSMQTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/SlowCalculateBigPrimeEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/QueryEventLoopJob.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/TestService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/TestMessageEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/IEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/ScheduledJob.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/WriteTestMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/EventLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/IEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MSMQTest/CalculatePrimeHandler.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MSMQTest/Program.TestMessageEvent.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/QueryEventLoopJob.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/ScheduledJob.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/TestService.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/IEvent.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/WriteTestMessage.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/TestMessageEvent.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/IEventHandler.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/SlowCalculateBigPrimeEvent.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/Program.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/EventLoop.cs" />
+        <option value="$PROJECT_DIR$/MSMQTest/CalculatePrimeHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MSMQTest (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MSMQTest" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MSMQTest/MSMQTest.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MSMQTest/bin/Debug/MSMQTest.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b29d5d55-9e2b-4315-b97f-9e1f4b0c267a" name="Default" comment="" />
+      <created>1506071550669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506071550669</updated>
+      <workItem from="1506071561607" duration="683000" />
+      <workItem from="1506089962833" duration="579000" />
+      <workItem from="1506331507684" duration="15285000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16547000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41337386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928064" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928064" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918947" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="Program.Container.GetCurrentRegistrations();" language="C#" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MSMQTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506357573563" expanded="true" signature="6:123" ph="..." />
+            <marker date="1506357573563" expanded="true" signature="143:1014" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="172:1012" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="226:644" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="319:632" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="377:576" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="697:940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506357573563" expanded="true" signature="6:123" ph="..." />
+            <marker date="1506357573563" expanded="true" signature="143:1014" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="172:1012" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="226:644" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="319:632" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="377:576" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="697:940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/IEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1506354399518" expanded="true" signature="19:65" ph="{...}" />
+            <marker date="1506354399518" expanded="true" signature="50:62" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/WriteTestMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <marker date="1506354478111" expanded="true" signature="36:237" ph="{...}" />
+            <marker date="1506354478111" expanded="true" signature="108:234" ph="{...}" />
+            <marker date="1506354478111" expanded="true" signature="164:227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/IEventHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <marker date="1506354478880" expanded="true" signature="18:109" ph="{...}" />
+            <marker date="1506354478880" expanded="true" signature="63:107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1506357573563" expanded="true" signature="6:123" ph="..." />
+            <marker date="1506357573563" expanded="true" signature="143:1014" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="172:1012" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="226:644" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="319:632" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="377:576" ph="{...}" />
+            <marker date="1506357573563" expanded="true" signature="697:940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/ScheduledJob.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1506344802148" expanded="false" signature="6:40" ph="..." />
+            <marker date="1506344802148" expanded="true" signature="63:342" ph="{...}" />
+            <marker date="1506344802148" expanded="true" signature="103:339" ph="{...}" />
+            <marker date="1506344802148" expanded="true" signature="167:333" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/EventLoop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding>
+            <marker date="1506357659702" expanded="true" signature="6:146" ph="..." />
+            <marker date="1506357659702" expanded="true" signature="169:1945" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="199:1942" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="434:672" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="462:661" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="518:610" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="709:837" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="925:1018" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="1049:1125" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="1155:1803" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="1196:1792" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="1286:1649" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="1536:1630" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="1672:1777" ph="{...}" />
+            <marker date="1506357659702" expanded="true" signature="1859:1935" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/TestService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="42" column="62" lean-forward="false" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+          <folding>
+            <marker date="1506354045877" expanded="false" signature="6:121" ph="..." />
+            <marker date="1506354045877" expanded="true" signature="144:3210" ph="{...}" />
+            <marker date="1506354045877" expanded="true" signature="176:3207" ph="{...}" />
+            <marker date="1506354045877" expanded="true" signature="288:603" ph="{...}" />
+            <marker date="1506354045877" expanded="true" signature="631:762" ph="{...}" />
+            <marker date="1506354045877" expanded="true" signature="865:1916" ph="{...}" />
+            <marker date="1506354045877" expanded="true" signature="2222:3201" ph="{...}" />
+            <marker date="1506354045877" expanded="true" signature="2393:3191" ph="{...}" />
+            <marker date="1506354045877" expanded="true" signature="2494:3177" ph="{...}" />
+            <marker date="1506354045877" expanded="true" signature="2640:3159" ph="{...}" />
+            <marker date="1506354045877" expanded="true" signature="2896:3137" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/CalculatePrimeHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <marker date="1506357659746" expanded="true" signature="36:1155" ph="{...}" />
+            <marker date="1506357659746" expanded="true" signature="123:1152" ph="{...}" />
+            <marker date="1506357659746" expanded="true" signature="189:231" ph="{...}" />
+            <marker date="1506357659746" expanded="true" signature="259:482" ph="{...}" />
+            <marker date="1506357659746" expanded="true" signature="529:1145" ph="{...}" />
+            <marker date="1506357659746" expanded="true" signature="619:1107" ph="{...}" />
+            <marker date="1506357659746" expanded="true" signature="758:971" ph="{...}" />
+            <marker date="1506357659746" expanded="true" signature="813:926" ph="{...}" />
+            <marker date="1506357659746" expanded="true" signature="1003:1070" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/QueryEventLoopJob.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <marker date="1506344702411" expanded="false" signature="6:28" ph="..." />
+            <marker date="1506344702411" expanded="true" signature="51:281" ph="{...}" />
+            <marker date="1506344702411" expanded="true" signature="97:278" ph="{...}" />
+            <marker date="1506344702411" expanded="true" signature="161:272" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/SlowCalculateBigPrimeEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding>
+            <marker date="1506354532306" expanded="true" signature="19:93" ph="{...}" />
+            <marker date="1506354532306" expanded="true" signature="76:90" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSMQTest/TestMessageEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1506354479483" expanded="true" signature="19:255" ph="{...}" />
+            <marker date="1506354479483" expanded="true" signature="69:252" ph="{...}" />
+            <marker date="1506354479483" expanded="true" signature="175:240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
